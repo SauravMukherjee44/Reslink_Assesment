@@ -1,0 +1,23 @@
+.circleIcon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buttonBase,
+.sizesmHierarchytertiaryGr {
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+}
+.buttonBase {
+  overflow: hidden;
+  padding: var(--padding-5xs);
+  align-items: center;
+  justify-content: center;
+}
+.sizesmHierarchytertiaryGr {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
