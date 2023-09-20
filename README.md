@@ -1,7 +1,7 @@
 
   # Reslink Assesment
 
-  # Visit link: https://reslink-assesment.netlify.app/
+  # Visit website: https://reslink-assesment.netlify.app/
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
